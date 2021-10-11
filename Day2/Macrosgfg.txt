@@ -1,0 +1,10 @@
+Macros:
+Macros are pieces of code in a program that are replaced by the value of the macro.Whenever a macro is encountered,the macro is replaced by its definition.It need not be terminated 
+with a semicolon.
+
+Read the below article on gfg and got to know about various kinds of Macros like,
+https://www.geeksforgeeks.org/macros-and-its-types-in-c-cpp/
+Object like macros
+Function macros
+Multiline macros
+Chain macros
