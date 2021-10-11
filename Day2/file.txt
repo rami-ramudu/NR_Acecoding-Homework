@@ -1,0 +1,8 @@
+#include<iostream>
+namespace n1
+{
+int val()
+{
+    return 999;
+}
+}
