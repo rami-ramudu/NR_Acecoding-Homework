@@ -1,3 +1,5 @@
+//O(N^2) Time Complexity
+//O(1) Space Complexity
 #include<iostream>
 using namespace std;
 int main()
